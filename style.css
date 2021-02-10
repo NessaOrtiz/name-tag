@@ -1,0 +1,63 @@
+h1 {
+    text-transform: uppercase;
+    font-size: 40px;
+}
+h3 {
+    font-size: 15px;
+}
+h1, h3 {
+    margin: 0px;
+}
+h2 {
+    font-size: 10px;
+    margin: 0px;
+}
+.tag-title {
+    background-color: indigo;
+    color: rgb(0, 255, 200);
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-radius: 25px 25px 0px 0px;
+    height: 80px;
+    margin: 5px 5px 0px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.name {
+    background-color: white;
+    color: rgb(14, 1, 73);
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 70px;
+    margin: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.footer {
+    background-color: indigo;
+    color: rgb(0, 255, 200);
+    font-size: 12px;
+    text-align: center;
+    border-radius: 0px 0px 25px 25px;
+    height: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+main {
+    background-color: darkgray;
+    height: 100%;
+    width: 300px
+} 
